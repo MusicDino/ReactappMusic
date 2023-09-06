@@ -1,3 +1,4 @@
+import { glavnidio } from '.';
 import * as func from '../Modules/functions'
 
 const Main = () => {

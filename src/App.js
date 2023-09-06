@@ -1,8 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Header from './Components/header'
-import Main from './Components/main'
-import Footer from './Components/footer'
+import { podnozje as Footer, zaglavlje as Header, glavnidio as Main} from './Components';
 
 function App() {
 
